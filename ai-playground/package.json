@@ -1,0 +1,20 @@
+{
+  "name": "ai-playground",
+  "version": "1.0.0",
+  "description": "AI全链路小游戏开发引擎",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc -w"
+  },
+  "keywords": ["game", "ai", "cocos", "minigame"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.0",
+    "typescript": "^5.2.2"
+  }
+}
